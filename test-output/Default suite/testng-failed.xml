@@ -7,7 +7,7 @@
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="applyForJob"/>
+          <include name="applyForFiveJobs"/>
         </methods>
       </class> <!-- tests.JobApplicationTest -->
     </classes>
