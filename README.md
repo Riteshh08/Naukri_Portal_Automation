@@ -256,4 +256,4 @@ Open any of these files in a web browser to inspect execution status, passed/fai
 
 ## ⚠️ Disclaimer
 
-This project was developed for **educational and portfolio demonstration purposes** to showcase advanced concepts in test automation, Page Object Model design, dynamic DOM handling, and Selenium 4 features. Users must comply with Naukri's [Terms of Service](https://www.naukri.com/termsconditions) and use the tool responsibly.
+This project was developed for **educational and portfolio demonstration purposes** to showcase advanced concepts in test automation, Page Object Model design, dynamic DOM handling, and Selenium 4 features. Users must comply with Naukri's Terms of Service and use the tool responsibly.
